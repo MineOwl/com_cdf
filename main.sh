@@ -3,7 +3,7 @@
 shopt -s expand_aliases
 
 
-alias f="source ~/myBashcodes/common/buildpathflag.sh"
-alias cdf="cd $(cat ~/myBashcodes/common/path.text)"
+alias f="source ~/com_cdf/buildpathflag.sh"
+alias cdf="cd $(cat ~/com_cdf/path.text)"
 cat ~/myBashcodes/common/aa.text
 
